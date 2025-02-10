@@ -1,8 +1,8 @@
-# Symetric Graph
+## Symetric Graph
 <img src="/symetric_graph.png"/>
 
-# Seaborn
+## Seaborn
 <img src="/seaborn.png"/>
 
-# Output
+## Output
 <img src="/output.png"/>
